@@ -1,0 +1,15 @@
+.venv/
+*.egg-info/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.env
+.streamlit/secrets.toml
+data/*.db
+data/cache/
+data/downloads/
+*.sqlite3
+*.zip

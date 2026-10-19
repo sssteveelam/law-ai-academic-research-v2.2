@@ -1,0 +1,207 @@
+{
+  "name": "law-ai-liability-default",
+  "primary_keywords": [
+    "fault",
+    "causation",
+    "explaining AI"
+  ],
+  "extended_keywords": [
+    "AI liability",
+    "algorithmic accountability",
+    "tort liability",
+    "legal responsibility",
+    "explainable artificial intelligence",
+    "algorithmic causation"
+  ],
+  "excluded_keywords": [],
+  "target_journals": [
+    {
+      "name": "Stanford Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Duke Law Journal",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "California Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Michigan Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Harvard Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Yale Law Journal",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Columbia Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "NYU Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "University of Chicago Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Berkeley Technology Law Journal",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Texas Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Florida Law Review",
+      "group": "US Law Reviews"
+    },
+    {
+      "name": "Artificial Intelligence and Law",
+      "group": "Law, AI & Technology"
+    },
+    {
+      "name": "Journal of Law, Information and Science",
+      "group": "Law, AI & Technology"
+    },
+    {
+      "name": "Asia Pacific Law Review",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Journal of Law and Courts",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Hague Journal on the Rule of Law",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "European Journal of International Law",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "European Competition Law Review",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Harvard International Law Journal",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Virginia Journal of International Law",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Washington International Law Journal",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Yale Journal of International Law",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "European Intellectual Property Review",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Berkeley Journal of International Law",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Boston University International Law Journal",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Chicago Journal of International Law",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Connecticut Journal of International Law",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Cornell International Law Journal",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Florida Journal of International Law",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "The George Washington International Law Review",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "International Journal of Transitional Justice",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Journal of International Law and International Relations",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "North Carolina Journal of International Law and Commercial Regulation",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "NYU Journal of International Law and Politics",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Oxford University Commonwealth Law Journal",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Texas International Law Journal",
+      "group": "International & Comparative Law"
+    },
+    {
+      "name": "Revue Lamy de la concurrence",
+      "group": "European / French Law"
+    },
+    {
+      "name": "Revue Lamy droit civil",
+      "group": "European / French Law"
+    },
+    {
+      "name": "Asian Journal of Criminology",
+      "group": "Criminology & Legal Philosophy"
+    },
+    {
+      "name": "Crime, Law and Social Change",
+      "group": "Criminology & Legal Philosophy"
+    },
+    {
+      "name": "Criminal Law Forum",
+      "group": "Criminology & Legal Philosophy"
+    },
+    {
+      "name": "Criminal Law and Philosophy",
+      "group": "Criminology & Legal Philosophy"
+    },
+    {
+      "name": "Recueil Dalloz",
+      "group": "European / French Law"
+    },
+    {
+      "name": "Revue Lamy droit des affaires",
+      "group": "European / French Law"
+    },
+    {
+      "name": "Revue Propriété industrielle",
+      "group": "European / French Law"
+    },
+    {
+      "name": "Revue de droit international et de droit comparé",
+      "group": "European / French Law"
+    }
+  ]
+}
